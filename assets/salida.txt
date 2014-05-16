@@ -1,0 +1,11 @@
+1 Resultado 1.14952
+2 Resultado 44.90000
+3 Resultado 8.00000
+4 Resultado 262144.00000
+5 Resultado Resultado_indefinido
+6 Resultado Resultado_indefinido
+7 Resultado -8.00000
+8 Resultado 9.00000
+9 Resultado Resultado_indefinido
+10 Resultado 8.00000
+11 Resultado 1.00000
